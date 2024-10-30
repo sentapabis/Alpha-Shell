@@ -1,8 +1,8 @@
 <?php
 
 $GLOBALS['oZgNypoPRU'] = array(
-    'username' => 'kt',
-    'password' => 'cbc9ae15c1e0a9b450ee16b80c16fd3c',
+    'username' => 'Kurlung',
+    'password' => 'dd147df0c46b803e584beba1ef536fca',
     'safe_mode' => '1',
     'login_page' => 'gui',
     'show_icons' => '1',
